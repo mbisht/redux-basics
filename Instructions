@@ -1,0 +1,5 @@
+Instructions:
+
+1) npm install --save redux
+2) node redux-basics.js
+3) npm start
